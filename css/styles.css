@@ -130,12 +130,14 @@ p{
 /* Testimonials */
 #testimonials{
   background-color: #e0ece4;
+  color: #557571;
 }
 
 .testimonial-text{
   font-weight: bold;
   line-height: 1.5;
   font-size: 2rem;
+  
 }
 
 .testimonial-image{

@@ -194,4 +194,9 @@ p{
     position: static;
     transform: rotate(0);
   }
+  
+  
+    .title-img2, .title-img3{
+    display: none;
+  }
 }

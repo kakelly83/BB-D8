@@ -192,11 +192,12 @@ p{
   }
   .title-img{
     position: static;
-    transform: rotate(0);
+    width: 80%;
+    padding-top: 30%;
   }
-  
-  
-    .title-img2, .title-img3{
+
+  .title-img2, .title-img3{
     display: none;
   }
+
 }
